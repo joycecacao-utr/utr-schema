@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HelpArticle",
+  "headline": "Top 10 Questions",
+  "description": "Answers to the top ten most-frequently asked questions about UTR Sports player profiles, events, ratings, and support.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://support.universaltennis.com/en/support/solutions/articles/9000151884-top-10-questions"
+  },
+  "url": "https://support.universaltennis.com/en/support/solutions/articles/9000151884-top-10-questions",
+  "datePublished": "2025-06-30T06:09:00+08:00",
+  "dateModified": "2025-06-30T06:09:00+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "Julia Bahu"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "UTR Sports",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.universaltennis.com/images/utr-logo.png"
+    }
+  }
+}
