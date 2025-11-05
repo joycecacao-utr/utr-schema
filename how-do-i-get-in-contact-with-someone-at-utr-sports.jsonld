@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How do I Get in Contact with Someone at UTR Sports?",
+  "description": "Our team is based around the world – from London to New York, San Francisco, Melbourne, and beyond – and we collaborate with engineers and designers in real-time to answer your questions. We don’t offer phone support because we don’t want to waste your time on hold – and because you're never waiting on hold, you can ask us questions then be notified later when we respond. Our team is available via e-mail by clicking the link, or use the chat widget if you are a Club Provider or Coach.",
+  "url": "https://support.universaltennis.com/en/support/solutions/articles/9000152143-how-do-i-get-in-contact-with-someone-at-utr-sports-",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://support.universaltennis.com/en/support/solutions/articles/9000152143-how-do-i-get-in-contact-with-someone-at-utr-sports-"
+  },
+  "datePublished": "2025-05-23T13:13:00Z",
+  "dateModified": "2025-05-23T13:13:00Z",
+  "author": {
+    "@type": "Person",
+    "name": "Josh Vernon"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "UTR Sports",
+    }
+  }
+}
